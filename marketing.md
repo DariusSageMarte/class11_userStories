@@ -8,10 +8,10 @@
 -as a marketing teammember we need the data to be compiled and effienciently stored so that it can be accessed in a seamless manner.
 
 marketing teammember
-- the purpose of this app is to collected data from the focus group that can be used to effectively service our target audience.
+- as athe purpose of this app is to collected data from the focus group that can be used to effectively service our target audience.
 
 marketing teammember 
-- please make the app appealing so that our brand is not harm in any way during this project.
+- as a please make the app appealing so that our brand is not harm in any way during this project.
 
 
 #Devs
